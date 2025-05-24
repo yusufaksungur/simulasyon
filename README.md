@@ -108,8 +108,8 @@ python simulasyon.py
 ### 1. Projeyi Klonla
 
 ```bash
-git clone https://github.com/kullanici_adi/Metrobüs-Simulasyonu.git
-cd Metrobüs-Simulasyonu
+git clone https://github.com/yusufaksungur/simulasyon.git
+cd metrobüs_simulasyonu
 
 2. Sanal Ortam Oluştur (Opsiyonel ama önerilir)
 
