@@ -18,10 +18,15 @@ Bu Python projesi, bir şehir içi metrobüs sistemi simülasyonu sunar. Durakla
 
 src/
 ├── araclar.py → Metrobüs sınıfı (plaka, konum, durum)
+
 ├── durak.py → Durak sınıfı (kalabalık üretimi ve güncelleme)
+
 ├── merkez.py → Merkez sınıfı (filo yönetimi)
+
 ├── nvr.py → NVR sınıfı (kalabalık taraması)
+
 ├── filo.py → (Opsiyonel) Filo yönetim sınıfı
+
 └── simulasyon.py → Simülasyonun başlatıldığı dosya
 
 
